@@ -104,7 +104,7 @@ int main(void)
     }
 
 
-    printf("Enter the message you would like to encrypt.\n");
+    printf("Enter the message you would like to encrypt. (All lower case)\n");
     scanf("%d", &userInputKey);          /*
  *                                        Maybe balances the userInputKey and UserInput vars to work together, but essential to the overall function of program??
                                         */
